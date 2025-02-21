@@ -1,2 +1,5 @@
 # miPrimerRepo
-Repositorio con ayuda de curso de git en platzi
+Mi primer repositorio✨✨
+
+
+Mi primera contribucion al repositorio local de GitHub
