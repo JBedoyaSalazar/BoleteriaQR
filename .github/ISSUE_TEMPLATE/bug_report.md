@@ -5,7 +5,6 @@ about: Crea un reporte de error para ayudarnos a mejorar.
 title: "[BUG] descripcion breve"
 labels: bug
 assignees: '...'
-
 ## Descripción del Error
 Una descripción clara y concisa de lo que el error es.
 
